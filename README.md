@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavit
-- 👀 I’m interested in software engineering and game design
-- 🌱 I’m currently learning html, css, javascript
-- 💞️ I have experience in algorithms & data structures (C) and Object-Oriented Software Design (Java)
+- 👀 I’m interested in machine learning, artificial intelligence, software engineering and game design
+- 🌱 I’m currently learning to do frontend designs (html, css, javascript, react)
+- 💞️ I have experience in algorithms & data structures (C), software design (Java), machine learning & ai (python)
 - 📫 How to reach me pavit.vat@gmail.com
 
 <!---
